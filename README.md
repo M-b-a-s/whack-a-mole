@@ -1,5 +1,5 @@
 # whack-a-mole
-A simple whack a mole game using HTML, CSS and JS
+A simple whack-a-mole game using HTML, CSS and JS
 The game has a simple UI, no levels for now.
 adjustments would be made😁
 
